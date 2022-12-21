@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T17:36:40.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SyowEE4o6eiNFwnH6JrB" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T17:39:58.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fGXbmLAUR_V--8qYJbHj" version="20.7.4" type="github">
   <diagram id="a16-35YL6x6VXi6B7JwT" name="Page-1">
-    <mxGraphModel dx="2261" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,8 +159,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3E7MAQnyfCayU_D1aWXP-26" value="&lt;b&gt;11. API Call to on-prem IBM API with &lt;font color=&quot;#ea8b1f&quot;&gt;JWT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Verdana;fontColor=#00001f;" parent="1" vertex="1">
-          <mxGeometry x="345" y="695" width="310" height="30" as="geometry" />
+        <mxCell id="3E7MAQnyfCayU_D1aWXP-26" value="&lt;b&gt;11. API Call to on-prem IBM API with &lt;font color=&quot;#ea8b1f&quot;&gt;JWT&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;+IBM Client&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Verdana;fontColor=#00001f;" parent="1" vertex="1">
+          <mxGeometry x="300" y="695" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3E7MAQnyfCayU_D1aWXP-27" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 31);&quot;&gt;Mortgage Contract MS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=#ffffff;sketch=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontColor=#EA8B1F;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="242.5" y="930" width="227.5" height="60" as="geometry" />
